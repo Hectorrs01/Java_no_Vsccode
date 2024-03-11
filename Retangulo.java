@@ -17,6 +17,7 @@ public class Retangulo {
         double altura = Double.parseDouble(JOptionPane.showInputDialog("Digite a altura: "));
         double area = base * altura;
         JOptionPane.showInputDialog("A area do retangulo é: " + area);
+        
 
 
         
