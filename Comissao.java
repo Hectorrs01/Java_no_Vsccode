@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Comissao {
     public static void main(String[] args) {
+        
         System.out.println(" Digite o preça da peca: ");
         Scanner sc = new Scanner(System.in);
         double precoUnitario = sc.nextDouble();
